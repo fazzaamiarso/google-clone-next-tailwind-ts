@@ -13,7 +13,6 @@ const Home: NextPage = () => {
           name="description"
           content="Clone of goole by Fazza Razaq Amiarso"
         />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
       <header className="flex items-center justify-end p-4 space-x-4">
         <ul className="flex items-center space-x-4">
@@ -29,7 +28,7 @@ const Home: NextPage = () => {
           </li>
         </ul>
         <ViewGridIcon className="aspect-square w-10  p-2 rounded-full cursor-pointer hover:bg-gray-100 text-gray-500" />
-        <Avatar url="/rengoku.jpeg" />
+        <Avatar url="/Rengoku.jpeg" />
       </header>
       <SearchForm />
     </>

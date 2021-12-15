@@ -10,28 +10,14 @@ import Avatar from "../components/Avatar";
 import SearchPageForm from "../components/SearchPageForm";
 import OptionBar from "../components/SearchOptions/OptionBar";
 import { ApiResponse } from "../types/ApiResponse";
-import MockResponse from "../MockResponse.json";
 import SearchResults from "../components/SearchResults";
-import { useEffect, useState } from "react";
-import Pagination from "../components/Pagination/Pagination";
+import { useScroll } from "../Hooks/use-scroll";
 
 const Search: NextPage = ({
   searchResults,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => {
-  const [scrollPosition, setScrollPosition] = useState(0);
+  const scrollPosition = useScroll();
   const isScrollPassHeight = scrollPosition > 200;
-
-  useEffect(() => {
-    if (typeof window === "undefined") return;
-
-    const handleScroll = () => {
-      setScrollPosition(window.scrollY);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
 
   return (
     <>
