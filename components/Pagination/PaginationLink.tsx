@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { getSearchLink } from "../../utils/linkHelpers";
 
 interface Props {
   startIndex: number;
@@ -12,10 +13,10 @@ const PaginationLink = ({ startIndex, text }: Props) => {
   const start = router.query.start as string;
   const isActivePage = Number(start) === startIndex;
 
-  const BASE_URL = `/search?term=${term}&start=${startIndex}`;
+  const SEARCH_URL = getSearchLink(term, startIndex);
 
   return (
-    <Link href={BASE_URL} passHref>
+    <Link href={SEARCH_URL} passHref>
       <a
         className={` ${
           isActivePage

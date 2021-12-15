@@ -2,11 +2,12 @@ import { SearchIcon, MicrophoneIcon, XIcon } from "@heroicons/react/solid";
 import Image from "next/image";
 import { useRouter } from "next/router";
 import React, { useState } from "react";
+import { getSearchLink } from "../utils/linkHelpers";
 
 const SearchPageForm = () => {
   const router = useRouter();
   const searchedValue = router.query.term;
-  const [searchValue, setSearchValue] = useState(searchedValue);
+  const [searchValue, setSearchValue] = useState(searchedValue as string);
 
   const changeHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchValue(e.target.value);
@@ -17,7 +18,7 @@ const SearchPageForm = () => {
   const submitHandler = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (searchValue === "") return;
-    router.push(`/search?term=${searchValue}&start=0`);
+    router.push(getSearchLink(searchValue));
   };
   const backToHome = () => {
     router.push("/");

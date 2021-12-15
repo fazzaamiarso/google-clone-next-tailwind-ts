@@ -22,7 +22,10 @@ const Pagination = ({ totalResult }: { totalResult: string }) => {
     return jsxArray;
   };
 
-  const Paginations = useMemo(() => getPaginationNumbers(), []);
+  const Paginations = useMemo(
+    () => getPaginationNumbers(),
+    [router.query.terrm]
+  );
 
   return (
     <section className="flex justify-center gap-4 py-20">

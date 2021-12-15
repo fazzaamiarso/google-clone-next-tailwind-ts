@@ -3,6 +3,7 @@ import { MicrophoneIcon, SearchIcon } from "@heroicons/react/outline";
 import TabCard from "./TabCard";
 import React, { useState } from "react";
 import { useRouter } from "next/router";
+import { getSearchLink } from "../utils/linkHelpers";
 
 const SearchForm = () => {
   const router = useRouter();
@@ -16,11 +17,11 @@ const SearchForm = () => {
     e.preventDefault();
     if (searchValue === "") return;
     setSearchValue("");
-    router.push(`/search?term=${searchValue}&start=0`);
+    router.push(getSearchLink(searchValue));
   };
 
   return (
-    <main className="mt-20 max-w-lg mx-auto">
+    <main className="mt-20 w-11/12 max-w-lg mx-auto">
       <form
         className="flex flex-col items-center space-y-4 "
         onSubmit={searchHandler}
@@ -46,8 +47,8 @@ const SearchForm = () => {
           <MicrophoneIcon className="text-gray-600 w-5 ml-auto cursor-pointer" />
         </div>
       </form>
-      <section className="mt-8 w-full grid grid-cols-2 gap-2">
-        <TabCard text=" Shortcut" />
+      <section className="mt-8 w-full grid grid-cols-4 gap-2 md:grid-cols-2">
+        <TabCard text="Shortcut" />
         <TabCard text="Shortcut" />
         <TabCard text="Shortcut" />
         <TabCard text="Shortcut" />
