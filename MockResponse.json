@@ -1,0 +1,491 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - yoo",
+        "totalResults": "10",
+        "searchTerms": "yoo",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "e9f5373e9f9248b56"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.558696,
+    "formattedSearchTime": "0.56",
+    "totalResults": "10",
+    "formattedTotalResults": "10"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Doore Yoo - Google Maps",
+      "htmlTitle": "Doore <b>Yoo</b> - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Doore+Yoo&query_place_id=ChIJc1WWjM-ifDURc5XtMv3SdWo",
+      "displayLink": "www.google.com",
+      "snippet": "Doore Yoo. Your location. Trails. Dedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km. Set depart & arrive time.",
+      "htmlSnippet": "Doore <b>Yoo</b>. Your location. Trails. Dedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow. 2000 km. Set depart &amp; arrive time.",
+      "cacheId": "8t8m4B4y6s0J",
+      "formattedUrl": "https://www.google.com/maps/search/?api=1&query=Doore+Yoo...",
+      "htmlFormattedUrl": "https://www.google.com/maps/search/?api=1&amp;query=Doore+<b>Yoo</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Yangaroo Inc (YOO) Stock Price & News - Google Finance",
+      "htmlTitle": "Yangaroo Inc (<b>YOO</b>) Stock Price &amp; News - Google Finance",
+      "link": "https://www.google.com/finance/quote/YOO:CVE",
+      "displayLink": "www.google.com",
+      "snippet": "Get the latest Yangaroo Inc (YOO) real-time quote, historical performance, charts, and other financial information to help you make more informed trading ...",
+      "htmlSnippet": "Get the latest Yangaroo Inc (<b>YOO</b>) real-time quote, historical performance, charts, and other financial information to help you make more informed trading&nbsp;...",
+      "formattedUrl": "https://www.google.com/finance/quote/YOO:CVE",
+      "htmlFormattedUrl": "https://www.google.com/finance/quote/<b>YOO</b>:CVE",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQldTHAz14MiWY-2bpICyONYLUjcoY7hJc8AQj1tmfmhHDQ43UNmSVu_8",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Google Finance",
+            "og:image": "https://ssl.gstatic.com/finance/favicon/finance_770x402.png",
+            "theme-color": "#ffffff",
+            "og:type": "website",
+            "og:image:width": "770",
+            "twitter:card": "summary",
+            "twitter:title": "Yangaroo Inc (YOO) Stock Price & News - Google Finance",
+            "apple-mobile-web-app-title": "Google Finance",
+            "og:title": "Yangaroo Inc (YOO) Stock Price & News - Google Finance",
+            "og:image:height": "402",
+            "og:description": "Get the latest Yangaroo Inc (YOO) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and investment decisions.",
+            "twitter:image": "https://ssl.gstatic.com/finance/favicon/finance_496x496.png",
+            "referrer": "origin",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "msapplication-tap-highlight": "no",
+            "twitter:site": "@google",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Get the latest Yangaroo Inc (YOO) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and investment decisions.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.google.com/finance/quote/YOO:CVE"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ssl.gstatic.com/finance/favicon/finance_770x402.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Maps",
+      "htmlTitle": "Google Maps",
+      "link": "https://www.google.com/maps/contrib/112540857217831781428/reviews",
+      "displayLink": "www.google.com",
+      "snippet": "Byulna Yoo. Local Guide · Level 6. 0 points1 point 1,898 points points points points points points. 1,500. 5,000. Looking for your own reviews and photos?",
+      "htmlSnippet": "Byulna <b>Yoo</b>. Local Guide · Level 6. 0 points1 point 1,898 points points points points points points. 1,500. 5,000. Looking for your own reviews and photos?",
+      "cacheId": "M2NFQjtPRKcJ",
+      "formattedUrl": "https://www.google.com/maps/contrib/112540857217831781428/reviews",
+      "htmlFormattedUrl": "https://www.google.com/maps/contrib/112540857217831781428/reviews",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6AKPxcKCbFW7eGHGdTjCiqmdQQ5IgvK--21nWN8kIjF239s-qTIZ3Jk8T",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_5.png",
+            "og:image:width": "256",
+            "twitter:card": "summary",
+            "og:site_name": "Contributions by Byulna Yoo",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "og:title": "Contributions by Byulna Yoo",
+            "og:image:height": "256",
+            "google": "notranslate",
+            "og:description": "Level 6 Local Guide | 1,898 Points"
+          }
+        ],
+        "place": [
+          {
+            "image": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_5.png",
+            "name": "Contributions by Byulna Yoo",
+            "description": "Level 6 Local Guide | 1,898 Points"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_5.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Maps",
+      "htmlTitle": "Google Maps",
+      "link": "https://www.google.com/maps/contrib/112333977707064129473/reviews",
+      "displayLink": "www.google.com",
+      "snippet": "Christine Yoo. Local Guide · Level 4. 0 points1 point 314 points points points points points points. 250. 500. Looking for your own reviews and photos?",
+      "htmlSnippet": "Christine <b>Yoo</b>. Local Guide · Level 4. 0 points1 point 314 points points points points points points. 250. 500. Looking for your own reviews and photos?",
+      "cacheId": "aoX7DH7wg6QJ",
+      "formattedUrl": "https://www.google.com/maps/contrib/112333977707064129473/reviews",
+      "htmlFormattedUrl": "https://www.google.com/maps/contrib/112333977707064129473/reviews",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAQEbipHAjFs73lfvi-bsPavrWqBJKXGEfV1ioDjD_bHA1a98qSfqJRZi",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_4.png",
+            "og:image:width": "256",
+            "twitter:card": "summary",
+            "og:site_name": "Contributions by Christine Yoo",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "og:title": "Contributions by Christine Yoo",
+            "og:image:height": "256",
+            "google": "notranslate",
+            "og:description": "Level 4 Local Guide | 314 Points"
+          }
+        ],
+        "place": [
+          {
+            "image": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_4.png",
+            "name": "Contributions by Christine Yoo",
+            "description": "Level 4 Local Guide | 314 Points"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/geoprofile/sharing/lg_4.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Yoo Punta del Este",
+      "htmlTitle": "<b>Yoo</b> Punta del Este",
+      "link": "https://www.google.com/travel/hotels/entity/CgoIprfS9JiUpKB3EAE?g2lb=2502548%2C2503780%2C4258168%2C4306835%2C4317915%2C4328159%2C4371334%2C4401769%2C4419364%2C4463666%2C4466980%2C4482194%2C4482438%2C4486153%2C4491350%2C4499600%2C4511370%2C4270859%2C4284970&hl=en&rp=EI_X2NSu5aPh4QE4AkAASALAAQI&ictx=1&sa=X&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABpRCjMSLzIkMHg5NTc1MDRjNWUzNTA4MmE1OjB4ZGRkZGMwMmMxNDk1ZGY0OgdFbCBHb2xmGgASGhIUCgcI5Q8QBhgIEgcI5Q8QBhgJGAEyAhAAKgkKBToDVVNEGgA&ap=MAA&ved=2ahUKEwiI25bpq4HxAhVTYcUKHVvAAwQQ_OQGegQIAhB4",
+      "displayLink": "www.google.com",
+      "snippet": "Yoo Punta del Este inspired by Philippe Starck es único en Diseño y Amenities. Por el Rental Club se alquilan apartamentos decorados y equipados con lujo y ...",
+      "htmlSnippet": "<b>Yoo</b> Punta del Este inspired by Philippe Starck es único en Diseño y Amenities. Por el Rental Club se alquilan apartamentos decorados y equipados con lujo y&nbsp;...",
+      "formattedUrl": "https://www.google.com/.../CgoIprfS9JiUpKB3EAE?...",
+      "htmlFormattedUrl": "https://www.google.com/.../CgoIprfS9JiUpKB3EAE?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZREi6ACqtWHlYB7_IuaBYZ4Tq7h9nJYZMCCN-g_l4Gw",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Travel",
+            "og:image": "https://lh4.googleusercontent.com/proxy/gr1-YZAaDA8U4CzpyS8UnRA9rowfk3PZHRIbW6lfbD7G4ZWBnYpxe4Foi7jABEAEVuWMwzvoMN-xkjNdJKiQEPoYa5nzrvIdLMoCE6FIAuB0Xw-RPIKNZz7HRKIIar5_YlBqdhWvUtsXx21IVWImCwh2ppGYQRM=w296-h202-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Yoo Punta del Este 4.4 ★ (143)",
+            "mod": "true",
+            "og:site_name": "Google Hotel Search",
+            "apple-mobile-web-app-title": "Travel",
+            "og:title": "Yoo Punta del Este 4.4 ★ (143)",
+            "og:image:height": "202",
+            "og:description": "$92 · Sep 19–20",
+            "twitter:image": "https://lh4.googleusercontent.com/proxy/gr1-YZAaDA8U4CzpyS8UnRA9rowfk3PZHRIbW6lfbD7G4ZWBnYpxe4Foi7jABEAEVuWMwzvoMN-xkjNdJKiQEPoYa5nzrvIdLMoCE6FIAuB0Xw-RPIKNZz7HRKIIar5_YlBqdhWvUtsXx21IVWImCwh2ppGYQRM=w296-h202-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "Yoo Punta del Este 4.4 ★ (143)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "$92 · Sep 19–20",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChcIprfS9JiUpKB3GgsvZy8xdGoyMnFwdxAB?g2lb=4356900"
+          }
+        ],
+        "cse_image": [{}]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Yoo Punta del Este",
+      "htmlTitle": "<b>Yoo</b> Punta del Este",
+      "link": "https://www.google.com/travel/hotels/entity/CgoIprfS9JiUpKB3EAE?g2lb=2502548%2C2503780%2C4258168%2C4306835%2C4317915%2C4328159%2C4371334%2C4401769%2C4419364%2C4463666%2C4466980%2C4482194%2C4482438%2C4486153%2C4491350%2C4499600%2C4511370%2C4270859%2C4284970&hl=en&rp=EI_X2NSu5aPh4QE4AkAASALAAQI&ictx=1&sa=X&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABpRCjMSLzIkMHg5NTc1MDRjNWUzNTA4MmE1OjB4ZGRkZGMwMmMxNDk1ZGY0OgdFbCBHb2xmGgASGhIUCgcI5Q8QBhgJEgcI5Q8QBhgKGAEyAhAAKgkKBToDVVNEGgA&ap=MAA&ved=2ahUKEwjIgprWlYXxAhXWGFYKHc-2DKQQ_OQGegUIAhCmAQ",
+      "displayLink": "www.google.com",
+      "snippet": "Reviews · People often mention · Location · About this hotel · Photos · More boutique hotels · Similar to Yoo Punta del Este.",
+      "htmlSnippet": "Reviews &middot; People often mention &middot; Location &middot; About this hotel &middot; Photos &middot; More boutique hotels &middot; Similar to <b>Yoo</b> Punta del Este.",
+      "formattedUrl": "https://www.google.com/.../CgoIprfS9JiUpKB3EAE?...",
+      "htmlFormattedUrl": "https://www.google.com/.../CgoIprfS9JiUpKB3EAE?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZREi6ACqtWHlYB7_IuaBYZ4Tq7h9nJYZMCCN-g_l4Gw",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Travel",
+            "og:image": "https://lh4.googleusercontent.com/proxy/gr1-YZAaDA8U4CzpyS8UnRA9rowfk3PZHRIbW6lfbD7G4ZWBnYpxe4Foi7jABEAEVuWMwzvoMN-xkjNdJKiQEPoYa5nzrvIdLMoCE6FIAuB0Xw-RPIKNZz7HRKIIar5_YlBqdhWvUtsXx21IVWImCwh2ppGYQRM=w296-h202-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Yoo Punta del Este 4.4 ★ (142)",
+            "mod": "true",
+            "og:site_name": "Google Hotel Search",
+            "apple-mobile-web-app-title": "Travel",
+            "og:title": "Yoo Punta del Este 4.4 ★ (142)",
+            "og:image:height": "202",
+            "og:description": "$89 · Sep 1–2",
+            "twitter:image": "https://lh4.googleusercontent.com/proxy/gr1-YZAaDA8U4CzpyS8UnRA9rowfk3PZHRIbW6lfbD7G4ZWBnYpxe4Foi7jABEAEVuWMwzvoMN-xkjNdJKiQEPoYa5nzrvIdLMoCE6FIAuB0Xw-RPIKNZz7HRKIIar5_YlBqdhWvUtsXx21IVWImCwh2ppGYQRM=w296-h202-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "Yoo Punta del Este 4.4 ★ (142)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "$89 · Sep 1–2",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChcIprfS9JiUpKB3GgsvZy8xdGoyMnFwdxAB?g2lb=4356900"
+          }
+        ],
+        "cse_image": [{}]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sang yoo Mountain View Tagaytay",
+      "htmlTitle": "Sang <b>yoo</b> Mountain View Tagaytay",
+      "link": "https://www.google.com/travel/hotels/entity/ChoIu-Kb-9Gm85OjARoNL2cvMTFnOHhrcDc5cxAB?utm_campaign=sharing&utm_medium=link&utm_source=htls&sa=X&ts=CAESABpTCjUSMTIlMHgzM2JkNzc3YjFhYjU0YzhmOjB4NmVjYzUxNDQ1MWNlMmJlODoIVGFnYXl0YXkaABIaEhQKBwjlDxAGGBsSBwjlDxAGGBwYATICEAAqCQoFOgNVU0QaAA&rp=SAI&ap=MAA&ved=2ahUKEwiPhp-ulpbxAhXLQsUKHdUBCdsQv6wDegUIARCVAQ",
+      "displayLink": "www.google.com",
+      "snippet": "Sang yoo Mountain View Tagaytay. 3-star hotel. #4 Hollywood subdivision, Barangay Tolentino East, Tagaytay city Cavite 4120 3RD FLOOR MAGANDA HOTEL Iruhin, ...",
+      "htmlSnippet": "Sang <b>yoo</b> Mountain View Tagaytay. 3-star hotel. #4 Hollywood subdivision, Barangay Tolentino East, Tagaytay city Cavite 4120 3RD FLOOR MAGANDA HOTEL Iruhin,&nbsp;...",
+      "formattedUrl": "https://www.google.com/.../ChoIu-Kb- 9Gm85OjARoNL2cvMTFnOHhrcDc5cxAB?...",
+      "htmlFormattedUrl": "https://www.google.com/.../ChoIu-Kb- 9Gm85OjARoNL2cvMTFnOHhrcDc5cxAB?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMyUXMYZ7TJV_f_BJvW-7LakuU56kWJx7hNeF706HJar5nXPXj_2_f2KnT",
+            "width": "236",
+            "height": "214"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Travel",
+            "og:image": "https://lh6.googleusercontent.com/proxy/J38kO2ClAaehstieMy1g1H78Imk5Qik907sbkN12wuZ1Ow86oRdAPEI-mXiPSzzqCpPXq--z29xFu4ZdzLtef1CSNjOqif5QK5ogBEdP5XhmG-2mvhEv64BkZXN8pTuT75ObPm97t0hg5hxZRZv1AqSXnPieCgw=w592-h404-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Sang yoo Mountain View Tagaytay 4.3 ★ (28)",
+            "mod": "true",
+            "og:site_name": "Google Hotel Search",
+            "apple-mobile-web-app-title": "Travel",
+            "og:title": "Sang yoo Mountain View Tagaytay 4.3 ★ (28)",
+            "og:image:height": "202",
+            "og:description": "$62 · Dec 4–5",
+            "twitter:image": "https://lh6.googleusercontent.com/proxy/J38kO2ClAaehstieMy1g1H78Imk5Qik907sbkN12wuZ1Ow86oRdAPEI-mXiPSzzqCpPXq--z29xFu4ZdzLtef1CSNjOqif5QK5ogBEdP5XhmG-2mvhEv64BkZXN8pTuT75ObPm97t0hg5hxZRZv1AqSXnPieCgw=w592-h404-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "Sang yoo Mountain View Tagaytay 4.3 ★ (28)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "$62 · Dec 4–5",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChoIu-Kb-9Gm85OjARoNL2cvMTFnOHhrcDc5cxAB?g2lb=4356900"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/p/AF1QipNo9nz1k8CIp_68Sal882azu_4A12sYaE5mIh1L=w338-h306-n-k-no-v1-rj"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Connect a device",
+      "htmlTitle": "Connect a device",
+      "link": "https://www.google.com/device",
+      "displayLink": "www.google.com",
+      "snippet": "Enter the code displayed on your device. Enter code. Next. ‪Afrikaans‬. ‪azərbaycan‬. ‪bosanski‬. ‪català‬. ‪Čeština‬. ‪Dansk‬. ‪Deutsch‬. ‪eesti‬.",
+      "htmlSnippet": "Enter the code displayed on your device. Enter code. Next. ‪Afrikaans‬. ‪azərbaycan‬. ‪bosanski‬. ‪català‬. ‪Čeština‬. ‪Dansk‬. ‪Deutsch‬. ‪eesti‬.",
+      "formattedUrl": "https://www.google.com/device",
+      "htmlFormattedUrl": "https://www.google.com/device",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gmail: 개인 정보가 보호되는 안전한 무료 이메일 | Google Workspace",
+      "htmlTitle": "Gmail: 개인 정보가 보호되는 안전한 무료 이메일 | Google Workspace",
+      "link": "https://www.google.com/intl/ko/gmail/about/",
+      "displayLink": "www.google.com",
+      "snippet": "Gmail은 계정과 이메일을 암호화하고 개인 정보를 보호하며 사용자에게 관리 권한을 제공합니다. 세계에서 가장 큰 규모의 보안 이메일 서비스인 Gmail의 보안 원리를 ...",
+      "htmlSnippet": "Gmail은 계정과 이메일을 암호화하고 개인 정보를 보호하며 사용자에게 관리 권한을 제공합니다. 세계에서 가장 큰 규모의 보안 이메일 서비스인 Gmail의 보안 원리를&nbsp;...",
+      "cacheId": "2w9TeTqS7-IJ",
+      "formattedUrl": "https://www.google.com/intl/ko/gmail/about/",
+      "htmlFormattedUrl": "https://www.google.com/intl/ko/gmail/about/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4YKVTJQ1EAsXWnqsU4GNXikGvDWVi-mHlfPO3MRdO0eukCSyl61Tc7q8",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/gmail/about/static-2.0/images/share-facebook.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Gmail: 개인 정보가 보호되는 안전한 무료 이메일 | Google Workspace",
+            "og:title": "Gmail: 개인 정보가 보호되는 안전한 무료 이메일 | Google Workspace",
+            "og:description": "Gmail은 계정과 이메일을 암호화하고 개인 정보를 보호하며 사용자에게 관리 권한을 제공합니다. 세계에서 가장 큰 규모의 보안 이메일 서비스인 Gmail의 보안 원리를 알아보세요.",
+            "og:image:secure_url": "https://www.google.com/gmail/about/static-2.0/images/share-facebook.jpg",
+            "twitter:image": "https://www.google.com/gmail/about/static-2.0/images/share-twitter.jpg",
+            "referrer": "no-referrer",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Gmail은 계정과 이메일을 암호화하고 개인 정보를 보호하며 사용자에게 관리 권한을 제공합니다. 세계에서 가장 큰 규모의 보안 이메일 서비스인 Gmail의 보안 원리를 알아보세요.",
+            "og:locale": "ko",
+            "og:url": "https://www.google.com/intl/ko/gmail/about/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/gmail/about/static-2.0/images/share-facebook.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "9 Aktor Digosipkan Pacari Song Hye Kyo, Terbaru Balikan sama ...",
+      "htmlTitle": "9 Aktor Digosipkan Pacari Song Hye Kyo, Terbaru Balikan sama ...",
+      "link": "https://www.google.com/appserve/mkt/p/AD-FnExQqZukGUqtWtdRtJfX9FdHgoLfqAn_4Asj1WxEBJfy45L8eDEwuKshqymuqGzm2V6-uXeyDsdZdFml57Tgylp6NVrfcAL759z7bJWjBaQKi8KROCC4-NQ6m6MongxOXv8m-awoKNAXjeWxexeH7RjnuuN3Wrym-o115DnlFfLR3RIXBWzPLauLjbX6AgXiRq_uoMxOH-1LYeun",
+      "displayLink": "www.google.com",
+      "snippet": "May 22, 2020 ... Song Joong Ki sampai Hyun Bin, 9 aktor dekat dengan Song Hye Kyo.",
+      "htmlSnippet": "May 22, 2020 <b>...</b> Song Joong Ki sampai Hyun Bin, 9 aktor dekat dengan Song Hye Kyo.",
+      "cacheId": "DeBNjLIpdngJ",
+      "formattedUrl": "https://www.google.com/.../AD-FnExQqZukGUqtWtdRtJfX9FdHgoLfqAn_ 4Asj1WxEBJfy45L8eDEwuKshqymuqGzm2V6- ...",
+      "htmlFormattedUrl": "https://www.google.com/.../AD-FnExQqZukGUqtWtdRtJfX9FdHgoLfqAn_ 4Asj1WxEBJfy45L8eDEwuKshqymuqGzm2V6- ...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa-lXa8C-FZinxsx9cceVQsgKTLcFgzCPd3Dk_umr1uzP12KAMCyWahMBs",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.intipseleb.com/media/frontend/thumbs3/2020/05/22/5ec73b4702479-song-hye-kyo-dan-mantan-pacar_663_372.jpg",
+            "article:published_time": "2020-05-22 09:40:16",
+            "og:image:width": "665",
+            "twitter:card": "summary_large_image",
+            "language": "id",
+            "og:image:type": "image/jpeg",
+            "og:description": "Song Joong Ki sampai Hyun Bin, 9 aktor dekat dengan Song Hye Kyo.",
+            "twitter:creator": "@intipseleb",
+            "geo.country": "id",
+            "article:section3": "hyun-bin-dan-song-hye-kyo,song-hye-kyo,hyun-bin,song-joong-ki,park-bo-gum",
+            "twitter:site": "@intipseleb",
+            "news_keywords": "hyun-bin-dan-song-hye-kyo, song-hye-kyo, hyun-bin, song-joong-ki, park-bo-gum",
+            "dable:title": "9 Aktor Digosipkan Pacari Song Hye Kyo, Terbaru Balikan sama Hyun Bin",
+            "og:type": "article",
+            "article:section": "korea",
+            "twitter:site:id": "@intipseleb",
+            "handheldfriendly": "true",
+            "msvalidate.01": "18CCCD23B3273779A5EB79EA779F9BF1",
+            "author": "IntipSeleb.com",
+            "dable:item_id": "6369",
+            "og:title": "9 Aktor Digosipkan Pacari Song Hye Kyo, Terbaru Balikan sama Hyun Bin",
+            "og:image:height": "374",
+            "yandex-verification": "53e3010d629e429e",
+            "twitter:image:src": "https://thumb.intipseleb.com/media/frontend/thumbs3/2020/05/22/5ec73b4702479-song-hye-kyo-dan-mantan-pacar_663_372.jpg",
+            "fb:app_id": "330907351187174",
+            "dable:author": "christya",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Song Joong Ki sampai Hyun Bin, 9 aktor dekat dengan Song Hye Kyo.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.intipseleb.com/korea/6369-9-aktor-digosipkan-pacari-song-hye-kyo-terbaru-balikan-sama-hyun-bin",
+            "geo.placename": "Indonesia",
+            "apple-touch-fullscreen": "yes"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://www.hancinema.net/photos/photo30704.jpg",
+            "description": "IntipSeleb – Song Hye Kyo kembali mencuri perhatian publik dengan kisah asmaranya. Sejak bercerai dengan Song Joong Ki, aktris kelahiran 1981 ini ramai dikabarkan dekat dengan sejumlah pria...."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.intipseleb.com/media/frontend/thumbs3/2020/05/22/5ec73b4702479-song-hye-kyo-dan-mantan-pacar_663_372.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
